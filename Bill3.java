@@ -4,6 +4,7 @@ public class Bill3 {
 		// To get you started, here is the first line in the program:
 	    String name1 = args[0];
 		System.out.println("Hello");
+		System.out.println("dfeadffa");
 	    // Replace this comment with the rest of your code   
 	}
 }
