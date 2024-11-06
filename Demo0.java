@@ -4,8 +4,7 @@ public class Demo0 {
 	public static void main(String[] args) {
 		// Declares an int variable, and sets it to 0
         int i = 0;
-        int j = 0;
-        int k = 0;
+
         /* Complete the program's code here: */
         while (i < 6)
         {
