@@ -22,7 +22,7 @@ public class Bill3
 			newValue = value / 3;
 		}
 
-		System.out.println("Dear " + n1 + ", " + n2 + " and " + n3 + ": pay " + newValue + " Shekels each.");
+		System.out.println("Dear " + n3 + ", " + n2 + ", and " + n1 + ": pay " + newValue + " Shekels each.");
 
 	}
 }
