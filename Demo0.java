@@ -6,12 +6,11 @@ public class Demo0
     {
         int i = 0;
 
-        while (i < 6)
-        {
+        while (i < 6) {
             System.out.println(i);
             i = i + 1;
-
         }
+        
         System.out.println("Done");
 
     }

@@ -12,13 +12,11 @@ public class Bill3
 		
 		double newValue;
 		
-		if (value % 3 != 0)
-		{
+		if (value % 3 != 0) {
 			newValue = value / 3 + 1;
 		}
 		
-		else 
-		{
+		else  {
 			newValue = value / 3;
 		}
 
