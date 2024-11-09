@@ -35,7 +35,7 @@ public class TimeFormat {
 			System.out.println(hours + ":" + minutes + " PM");
 		}
 
-		if (hours == 12 && minutes >= 10)
+		if (hours == 12 && minutes < 10)
 		{
 			System.out.println(hours + ":0" + minutes + " PM");
 		}
